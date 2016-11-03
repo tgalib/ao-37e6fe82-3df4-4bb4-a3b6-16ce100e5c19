@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Rugby game underway
+External-Identifier: 37e6fe82-3df4-4bb4-a3b6-16ce100e5c19
+
